@@ -13,7 +13,7 @@
     <packaging>pom</packaging>
 
     <properties>
-        <shop.car.soa.api.version>1.0.0-12345678-SNAPSHOT</shop.car.soa.api.version>
+        <soa.build.api.version.shop.car>1.0.0-12345678-SNAPSHOT</soa.build.api.version.shop.car>
     </properties>
 
     <!-- 注释测试 -->
