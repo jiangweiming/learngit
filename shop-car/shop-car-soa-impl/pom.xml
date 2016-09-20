@@ -1,5 +1,4 @@
-<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <parent>
         <artifactId>shop-car</artifactId>
         <groupId>xyz.jberg.git</groupId>
@@ -15,7 +14,7 @@
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <soa.build.jar.version.morder>1.0.0-12345678-SNAPSHOT</soa.build.jar.version.morder>
+        <soa.build.jar.version.morder>1.0.0-SNAPSHOT</soa.build.jar.version.morder>
         <soa.build.jar.version.ycdd>1.0.0-SNAPSHOT</soa.build.jar.version.ycdd>
     </properties>
 
