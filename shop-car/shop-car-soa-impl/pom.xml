@@ -15,7 +15,7 @@
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <soa.build.jar.version.morder>1.0.0-SNAPSHOT</soa.build.jar.version.morder>
-        <soa.build.jar.version.ycdd>1.0.0-44556688-SNAPSHOT</soa.build.jar.version.ycdd>
+        <soa.build.jar.version.ycdd>1.0.0-SNAPSHOT</soa.build.jar.version.ycdd>
     </properties>
 
     <dependencies>
