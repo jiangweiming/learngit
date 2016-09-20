@@ -12,7 +12,7 @@
   <!-- 中文注释 -->
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-    <soa.build.api.version.shop.car>1.0.0-SNAPSHOT</soa.build.api.version.shop.car>
+    <soa.build.api.version.shop.car>1.0.0-12345678-SNAPSHOT</soa.build.api.version.shop.car>
     <soa.build.api.version.shop.care>1.0.0-SNAPSHOT</soa.build.api.version.shop.care>
   </properties>
 
